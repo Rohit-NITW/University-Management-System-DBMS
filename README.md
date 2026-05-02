@@ -27,7 +27,7 @@ This project is a relational database system designed to manage university opera
 - Subqueries
 
 ## 📷 ER Diagram
-![ER Diagram](ER_Diagram.png)
+![ER Diagram](ER_Diagram.jpeg)
 
 ## 📂 Project Structure
 - SQL scripts in `/SQL`
